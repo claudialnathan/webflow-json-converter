@@ -7,6 +7,6 @@ Required Data Attributes:
 | Attribute        | Value     | Placement      |
 | :--------------- | :-------- | :------------- |
 | data-json-copy   | unique ID | On copy button |
-| data-json-target | unique ID | On Textarea    |
+| data-json-target | unique ID | On textarea    |
 
 Unique IDs on both the copy and target need to match. Current working example uses Wf custom element tagged Textarea.
